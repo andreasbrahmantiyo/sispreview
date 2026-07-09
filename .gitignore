@@ -1,0 +1,20 @@
+# Database backup / dump
+database/backup_*.sql
+*.sql.bak
+
+# Review/archive
+*.rar
+*.zip
+
+# Local/codex artifacts
+.codex-backups/
+.agents/
+
+# Git/editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local environment files
+.env
+*.local.php
